@@ -3,6 +3,7 @@
 
 # In[2]:
 
+requirements.txt
 !pip install scikit-learn
 
 import streamlit as st
